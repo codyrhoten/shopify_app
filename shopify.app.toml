@@ -2,7 +2,7 @@
 
 client_id = "25592b3b77a1c700ff0b260c3d2a038c"
 name = "the-storied-gift-ad-roa"
-application_url = "https://thestoriedgiftadroa.codyrhoten.com"
+application_url = "https://shopify-app-drab.vercel.app"
 embedded = true
 
 [build]
