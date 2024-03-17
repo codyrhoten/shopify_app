@@ -2,7 +2,7 @@
 
 client_id = "25592b3b77a1c700ff0b260c3d2a038c"
 name = "the-storied-gift-ad-roa"
-application_url = "https://default-description-reservations-thou.trycloudflare.com"
+application_url = "https://thestoriedgiftadroa.codyrhoten.com"
 embedded = true
 
 [build]
@@ -12,13 +12,13 @@ include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_reports"
+scopes = "read_orders"
 
 [auth]
 redirect_urls = [
-  "https://default-description-reservations-thou.trycloudflare.com/auth/callback",
-  "https://default-description-reservations-thou.trycloudflare.com/auth/shopify/callback",
-  "https://default-description-reservations-thou.trycloudflare.com/api/auth/callback"
+  "https://piece-score-advocacy-fallen.trycloudflare.com/auth/callback",
+  "https://piece-score-advocacy-fallen.trycloudflare.com/auth/shopify/callback",
+  "https://piece-score-advocacy-fallen.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
