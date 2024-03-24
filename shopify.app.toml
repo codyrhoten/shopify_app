@@ -2,7 +2,7 @@
 
 client_id = "25592b3b77a1c700ff0b260c3d2a038c"
 name = "the-storied-gift-ad-roa"
-application_url = "https://shopify-app-drab.vercel.app"
+application_url = "https://amendments-xbox-advancement-disease.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "read_orders"
 
 [auth]
 redirect_urls = [
-  "https://piece-score-advocacy-fallen.trycloudflare.com/auth/callback",
-  "https://piece-score-advocacy-fallen.trycloudflare.com/auth/shopify/callback",
-  "https://piece-score-advocacy-fallen.trycloudflare.com/api/auth/callback"
+  "https://amendments-xbox-advancement-disease.trycloudflare.com/auth/callback",
+  "https://amendments-xbox-advancement-disease.trycloudflare.com/auth/shopify/callback",
+  "https://amendments-xbox-advancement-disease.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
